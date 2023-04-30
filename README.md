@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working to learn how computers work and also learn<br>languages like C/C++ and more
+I am working to learn how computers work and also learning<br>languages like C/C++ and more
 
 
 # 💻 Tech Stack:
